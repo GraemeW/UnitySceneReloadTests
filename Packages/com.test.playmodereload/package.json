@@ -1,0 +1,7 @@
+{
+    "name": "com.test.playmodereload",
+    "version": "0.1.0",
+    "displayName": "PlayMode Reload Test Repro",
+    "description": "Minimal package containing only PlayMode tests.",
+    "unity": "6.6"
+}
